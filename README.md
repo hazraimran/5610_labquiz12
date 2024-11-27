@@ -2,7 +2,7 @@
 
 ### Instructions
 
-0. Start by creating a new folder named Lab 13 to organize all the files for this lab.
+0. Start by creating a new folder named Lab 12 to organize all the files for this lab.
 1. Inside the lab13 folder, initialize a new React project: npx create-react-app .
 2. Navigate to the folder and open it in a code editor.
 3. Install testing library using `npm install --save-dev @testing-library/react @testing-library/jest-dom`
